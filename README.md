@@ -1,4 +1,4 @@
-# st
+# [![Build Status](https://travis-ci.com/nreymundo/st.svg?branch=master)](https://travis-ci.com/nreymundo/st) st
 My own fork of the suckless [simple terminal (st)](https://st.suckless.org/) to store my settings/patches/changes/etc
 
 ## Patches Applied
